@@ -25,4 +25,21 @@ Problems we are going to solve are following ( BasicsCustomer.sql)
 <br/>
 --Find the average score for each country considering only customers with score ≠ 0 and return only those countries with an average score greater than 430.
 <br/>
+-- Return unique list of the countries.
+<br/>
+-- Retrieve only top 3 customers
+<br/>
+-- Retrieve the top 3 customers with the highest score.
+<br/>
+-- -- Retrieve the  3 customers with the lowest score.
+<br/>
+-- Get the msot recent orders.
+<br/>
+-- Create a new table called persons with column id, person_name, birth_date nad phone
+<br/>
+-- remove the column from the persons table
+<br/>
+-- Insert the id , first_name, country, score in the customers table
+<br/>
+
 
