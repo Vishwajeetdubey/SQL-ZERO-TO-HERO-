@@ -1,7 +1,7 @@
 # SQL-ZERO-TO-HERO-
 This repository contain the basics to advance SQL problem which helps to improve SQL Concept. 
 
-Problems we are going to solve are following.
+Problems we are going to solve are following ( CustomerBasics.sql)
 
 -- Retrive all customer data 
 <br/>
